@@ -8,9 +8,11 @@ Asrock B365M-PRO4 Motherboard
 
 i7-9700K Coffee Lake
 
-Nvidia Geforce GT 710
+AMD Radeon RX 560 2GB
 
-Intel Wireless and Bluetooth (Intel® Dual Band Wireless-AC 8260) planning on upgrading to AX200
+Intel Wireless and Bluetooth (Intel® AX200)
+
+Note: I'm still on Catalina and so I currently have IntelBluetoothFirmwareInjector.kext enabled, this needs to be disabled for Big Sur along with the required SecureBoot changes for BigSur.
 
 Samsung 980 NVME SSD in main slot
 
